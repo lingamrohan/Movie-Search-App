@@ -5,10 +5,10 @@ A clean and responsive Movie Search App built with HTML, CSS, and JavaScript tha
 
 
 # movie-search-app/
-├── index.html      # Main HTML file
-├── style.css       # App styling
-├── script.js       # JavaScript logic and API calls
-└── README.md       # Project documentation
+-├── index.html      # Main HTML file
+-├── style.css       # App styling
+-├── script.js       # JavaScript logic and API calls
+-└── README.md       # Project documentation
 
 
 ## 🛠️ Tech Stack
