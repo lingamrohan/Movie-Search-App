@@ -1,20 +1,15 @@
 # 🎬 Movie Search App
 
-A clean and responsive Movie Search App built with HTML, CSS, and JavaScript that allows users to search for movies by name and view detailed information fetched from the OMDb API.
+A clean and responsive Movie Search App built with HTML, CSS, and JavaScript that allows users to search for movies by name and view detailed information fetched from the OMDb API.This Movie Search App allows users to search for any movie by its title and instantly fetches and displays key information such as the poster, release year, genre, runtime, and IMDb rating. It’s built with pure HTML, CSS, and JavaScript, and integrates with the OMDb API to deliver real-time results. The app includes user-friendly error handling, is fully responsive across devices, and demonstrates core frontend development skills including DOM manipulation, API integration, and UI design.
 
-## 🌐 Live Demo
 
-🔗 [View Live](https://your-username.github.io/movie-search-app/)  
-_(Update the link with your GitHub Pages or Netlify link)_
 
----
+movie-search-app/
+├── index.html      # Main HTML file
+├── style.css       # App styling
+├── script.js       # JavaScript logic and API calls
+└── README.md       # Project documentation
 
-## 📸 Preview
-
-![App Screenshot](https://user-images.githubusercontent.com/your-username/demo-placeholder.png)  
-_(Add a real screenshot or GIF here)_
-
----
 
 ## 🛠️ Tech Stack
 
